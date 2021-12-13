@@ -6,7 +6,7 @@ function PageHeader() {
     <div className="mainHeader">
       <h1>Discover our car rental offers:</h1>
     </div>
-  )
+  );
 }
 
 export default PageHeader; 
