@@ -11,7 +11,7 @@ function App() {
         <OffersList />
       </div>
     </div>
-  )
+  );
 }
 
     export default App; 
