@@ -14,7 +14,6 @@ body {
   overflow: hidden;
   background-color: #fff;
   aspect-ratio: 1;
-  font-size: 16pt;
   color:black;
   margin: 20px;
   box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
@@ -42,11 +41,11 @@ body {
 }
 
 .description {
+  white-space: pre-line;
   position: absolute;
   width: 100%;
-  ma-height: 80px;
+  max-height: 80px;
   bottom: 0;
-  padding-left: 10px;
   background: #FF5F00;
   padding-top: 10px;
   box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
@@ -57,7 +56,7 @@ body {
   margin-left:10px;
   margin-right: 10px;
   align-content: left;
-  font-size: 16pt;
+  font-size: 14pt;
   color:#FF5F00;
   background: #000;
   font-weight: bold;
