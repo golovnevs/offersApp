@@ -2,7 +2,7 @@
 
 This React App displays the list of car rental offers that consists of Image, model, and price per day. Each offer is represented as a square div in a grid layout styled with custom CSS.
 
-## how to start the app
+## How to start the app
 
 Run the app in the development mode using npm start.
 Open http://localhost:3000 to view it in your browser. 
